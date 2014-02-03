@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+    <server id="0">
+        <ip>84.237.22.51</ip>
+        <port>25000</port>
+    </server>
+    <server id="1">
+        <ip>localhost</ip>
+        <port>25000</port>
+    </server>
+    <server id="2">
+        <ip>localhost</ip>
+        <port>25001</port>
+    </server>
+</servers>
